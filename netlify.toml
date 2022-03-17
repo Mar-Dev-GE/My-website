@@ -1,0 +1,9 @@
+[build]
+  publish = "dist"
+  environment = { NODE_VERSION = "14.17.3" }
+
+[context.production]
+  command = "npm run generate"
+
+[context.deploy-preview]
+  command = "npm run generateDev"

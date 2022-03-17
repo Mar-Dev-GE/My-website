@@ -1,0 +1,51 @@
+info:
+  title: Work Expertise
+  phrase: During my learning journey I worked with many tools. Here is a list of some I feal more confortble with.
+skills: 
+  - id: git
+    label: Git
+    icon: git.svg
+
+  - id: docker
+    label: Docker
+    icon: docker.svg
+
+  - id: mysql
+    label: mysql
+    icon: mysql.svg
+
+  - id: C++
+    label: C++
+    icon: C++.svg
+
+  - id: csharp
+    label: C#
+    icon: c-sharp.svg
+
+  - id: Vmware ESXI
+    label: Vmware ESXI
+    icon: VmwareESXI.svg
+
+  - id: TrueNas
+    label: TrueNas
+    icon: TrueNas.svg
+
+  - id: java
+    label: Java
+    icon: java.svg
+
+  - id: Debian
+    label: Debian
+    icon: Debian.svg
+
+  - id: Ubuntu
+    label: Ubuntu
+    icon: Ubuntu.svg
+
+  - id: SpigotMC
+    label: SpigotMC
+    icon: SpigotMC.svg
+
+  - id: Nginx
+    label: Nginx
+    icon: Nginx.svg

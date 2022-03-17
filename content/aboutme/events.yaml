@@ -1,0 +1,61 @@
+info:
+  title: Work/life experience
+  phrase: I'm learning and working with software development since very young.
+# Your experiences
+experiences:
+# -   id: X
+#     type: Education | Job
+#     title: 
+#     start: September 2016
+#     end: January 2020
+#     company: Instituto Superior de Engenharia do Porto (ISEP)
+#     role: "Student"
+#     url: "https://www.isep.ipp.pt"
+#     description: Degree in Systems Engineering
+#     responsibilities:
+#     - Representative of LES students.
+#     - Vice president of *Núcleo de Engenharia de Sistemas* [NES-ISEP](https://nes-isep.pt).
+#     - Organization of 3rd, 4th and 5th *Jornadas de Engenharia de Sistemas*.
+#     - Organization of some workshops.
+
+- id: 1
+  type: Education
+  title: Baccalauréat
+  start: September 2021
+  #end: July 2022
+  company: Youssef Ben tachafine high school
+  url: "https://fr-fr.facebook.com/LYBTOFFICIEL"
+  role: "Student"
+  description: Baccalauréat in sience math B
+  responsibilities:
+
+- id: 2
+  type: Learning
+  title: C++
+  start: September 2018
+  company: Main learning source the cherno youtube channel
+  url: "https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw"
+  role: "Student"
+  description: Learning C++ in a deeper way
+  responsibilities:
+
+- id: 3
+  type: Programming
+  title: Develop games using Unreal Engine 4
+  start: June 2019
+  end: September 2019
+  url: "https://www.unrealengine.com/en-US/"
+  role: "Developer"
+  description: Learning unreal engine 4, and different tools which make the process of development easier
+  responsibilities:
+  - learning the logic behind games
+  - combine C++ and blueprint
+
+- id: 4
+  type: Job
+  title: selling games in CD form
+  role : seller
+  start: 2015
+  end:  2017
+  description: I was downloading games from the ethernet and burn it to DVDs to gain some moeny
+  

@@ -1,0 +1,18 @@
+me:
+  name: Alahyane Marouane
+  img: images/profile.jpg
+presentation:
+  short:
+    Iam:
+      list: Tech lover, a 17 years old student
+    presentationText: I started learn IT skills since I was in primary school
+personalDetails:
+  - id: langs
+    label: Languages
+    values: Arabic, English, French
+  - id: nationality
+    label: Nationality
+    values: Moroccan
+phrase:
+  main: Hello I'm Alahyane Marouane
+  second: I'm a Passionate high school student

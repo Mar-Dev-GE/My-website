@@ -1,0 +1,9 @@
+hero:
+  bg: images/background.jpg
+phrase:
+  main: Hello I'm Marouane Alahyane
+  second: You can call me Mr.Mar
+links:
+    #- id: cv
+    #  label: Download CV
+    #  url: ''

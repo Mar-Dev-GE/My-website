@@ -1,0 +1,16 @@
+info:
+  title: My Certifications
+  phrase: Those are the certifications I have.
+certs: 
+  - id: C++ Basics certificate
+    label: C++ Basics certificate
+    Description: ""
+    img: /images/certificates/C++Basicscertificate.png
+  - id: Linux Basics certificate
+    label: Linux Basics certificate
+    Description: ""
+    img: /images/certificates/LinuxBasicscertificate.png
+  - id: Java Basics certificate
+    label: Java Basics certificate
+    Description: ""
+    img: /images/certificates/JavaBasicscertificate.png
